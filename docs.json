@@ -22,13 +22,6 @@
             ]
           },
           {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
             "group": "Writing content",
             "pages": [
               "essentials/markdown",
@@ -38,7 +31,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Notebooks",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
