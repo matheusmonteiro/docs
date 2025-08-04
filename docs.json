@@ -50,7 +50,16 @@
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Notebooks",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          },
+          {
+            "group": "Code Execution",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
