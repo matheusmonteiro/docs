@@ -71,6 +71,11 @@
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
+        },
+          {
+          "anchor": "Changelog",
+          "href": "https://harumi.io",
+          "icon": "book-open-cover"
         }
       ]
     }
