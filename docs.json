@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Harumi Developers",
   "colors": {
-     "primary": "#000000",
+    "primary": "#000000",
     "light": "#000000",
     "dark": "#000000"
   },
@@ -57,6 +57,17 @@
             "group": "Code Execution",
             "pages": [
               "api-reference/codeexecution/create"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Changelog",
+        "groups": [
+          {
+            "group": "Changelog",
+            "pages": [
+              "changelog"
             ]
           }
         ]
